@@ -1,0 +1,16 @@
+.modal-root {
+  background: rgba(0, 0, 0, 0.5);
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 100;
+}
+
+.modal-win {
+  background: white;
+  max-width: 360px;
+  padding: 20px;
+  margin: 40px auto;
+}
